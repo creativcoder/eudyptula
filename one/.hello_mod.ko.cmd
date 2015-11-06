@@ -1,0 +1,1 @@
+cmd_/home/rsconcept/Desktop/github/eudyptula/one/hello_mod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rsconcept/Desktop/github/eudyptula/one/hello_mod.ko /home/rsconcept/Desktop/github/eudyptula/one/hello_mod.o /home/rsconcept/Desktop/github/eudyptula/one/hello_mod.mod.o
